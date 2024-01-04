@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boriskamtou Senior Flutter Developer
 - 👀 I’m interested in Flutter, Dart, Firebase, Java, SpringBoot
-- 🌱 I’m currently learning SpringBoot, Backend
+- 🌱 I’m currently learning SpringBoot, Python, and Kotlin
 - 💞️ I’m looking to collaborate on Mobile application projects
 - 📫 You can reach me via my email: boriskamtou@gmail.com
 
